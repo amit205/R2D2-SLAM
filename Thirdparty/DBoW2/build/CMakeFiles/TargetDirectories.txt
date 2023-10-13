@@ -1,0 +1,3 @@
+/spslam/R2D2-onnx-slam/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir
+/spslam/R2D2-onnx-slam/Thirdparty/DBoW2/build/CMakeFiles/edit_cache.dir
+/spslam/R2D2-onnx-slam/Thirdparty/DBoW2/build/CMakeFiles/rebuild_cache.dir

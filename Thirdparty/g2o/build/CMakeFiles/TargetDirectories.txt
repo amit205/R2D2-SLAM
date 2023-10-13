@@ -1,0 +1,3 @@
+/spslam/R2D2-onnx-slam/Thirdparty/g2o/build/CMakeFiles/g2o.dir
+/spslam/R2D2-onnx-slam/Thirdparty/g2o/build/CMakeFiles/edit_cache.dir
+/spslam/R2D2-onnx-slam/Thirdparty/g2o/build/CMakeFiles/rebuild_cache.dir
